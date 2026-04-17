@@ -2,7 +2,7 @@
 
 > **3rd-Year Internship Project**. A serverless Single Page Application (SPA) automating wholesale order specifications for a beverage manufacturing plant.
 
-**[🔗 Live Demo](https://iridean.github.io/fruitdrop)** 
+**[🔗 Live Demo](https://iridean.github.io/fruitdrop/index.html)** 
 
 This application allows B2B clients to independently configure their product batches and instantly export the technical specification as an Excel file, completely bypassing the need for a backend server or manual manager data entry.
 
@@ -17,7 +17,7 @@ This application allows B2B clients to independently configure their product bat
 ### 🚀 Quick Start
 No build tools needed. The project is fully client-side.
 ```bash
-git clone https://github.com/Iridean/fruitdrop-landing.git
+git clone https://github.com/Iridean/fruitdrop.git
 cd fruitdrop-landing
 
 # Open directly in your browser
