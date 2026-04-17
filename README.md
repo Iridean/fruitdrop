@@ -18,7 +18,7 @@ This application allows B2B clients to independently configure their product bat
 No build tools needed. The project is fully client-side.
 ```bash
 git clone https://github.com/Iridean/fruitdrop.git
-cd fruitdrop-landing
+cd fruitdrop
 
 # Open directly in your browser
 open index.html
